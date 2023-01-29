@@ -58,8 +58,8 @@
 [figma](https://www.figma.com/file/zcp9RxYC9tt1wjPu6McY60/PF%E7%94%BB%E9%9D%A2%E9%81%B7%E7%A7%BB%E5%9B%B3?node-id=0%3A1&t=cnNfNNPGcRARBFzT-1)
 
 ## スケジュール
-企画〜技術調査：1/20〜1/31〆切
-README〜ER図作成：2/5〆切
-メイン機能実装：2/5〜2/20〆切
-MVPリリース：2/28〆切
-本番リリース：3月末
+- 企画〜技術調査：1/20〜1/31〆切
+- README〜ER図作成：2/5〆切
+- メイン機能実装：2/5〜2/20〆切
+- MVPリリース：2/28〆切
+- 本番リリース：3月末
