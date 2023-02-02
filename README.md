@@ -57,6 +57,10 @@
 
 [figma](https://www.figma.com/file/zcp9RxYC9tt1wjPu6McY60/PF%E7%94%BB%E9%9D%A2%E9%81%B7%E7%A7%BB%E5%9B%B3?node-id=0%3A1&t=cnNfNNPGcRARBFzT-1)
 
+## ER図
+
+[![Image from Gyazo](https://i.gyazo.com/320ee87514ebefee0709f84cb9b98ccb.png)](https://gyazo.com/320ee87514ebefee0709f84cb9b98ccb)
+
 ## スケジュール
 - 企画〜技術調査：1/20〜1/31〆切
 - README〜ER図作成：2/5〆切
