@@ -59,7 +59,7 @@
 
 ## ER図
 
-[![Image from Gyazo](https://i.gyazo.com/b863171c95cda3f62e6d620140e776ff.png)](https://gyazo.com/b863171c95cda3f62e6d620140e776ff)
+[![Image from Gyazo](https://i.gyazo.com/320ee87514ebefee0709f84cb9b98ccb.png)](https://gyazo.com/320ee87514ebefee0709f84cb9b98ccb)
 
 ## スケジュール
 - 企画〜技術調査：1/20〜1/31〆切
